@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">DigiKOP</string>
+    <string name="bottom_nav_bar_buy">Beli</string>
+    <string name="bottom_nav_bar_stock">Stok</string>
+    <string name="bottom_nav_bar_status">Status</string>
+    <string name="bottom_nav_bar_input">Input</string>
+</resources>

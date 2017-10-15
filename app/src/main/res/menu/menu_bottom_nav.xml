@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/buy_bottom_nav"
+        android:title="@string/bottom_nav_bar_buy"
+        android:icon="@drawable/ic_shopping_cart"/>
+
+    <item
+        android:id="@+id/stock_bottom_nav"
+        android:title="@string/bottom_nav_bar_stock"
+        android:icon="@drawable/ic_format_list_bulleted"/>
+
+    <item
+        android:id="@+id/status_bottom_nav"
+        android:title="@string/bottom_nav_bar_status"
+        android:icon="@drawable/ic_check_circle"/>
+
+    <item
+        android:id="@+id/input_bottom_nav"
+        android:title="@string/bottom_nav_bar_input"
+        android:icon="@drawable/ic_keyboard"/>
+</menu>

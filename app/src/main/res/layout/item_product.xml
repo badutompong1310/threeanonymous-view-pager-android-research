@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="@dimen/grid_item_width"
+    android:layout_height="@dimen/grid_item_height"
+    android:background="@android:color/white"
+    android:padding="10dp">
+
+    <ImageView
+        android:id="@+id/productItemImage"
+        android:layout_width="@dimen/item_product_image_size"
+        android:layout_height="@dimen/item_product_image_size"
+        android:src="@drawable/dummy_a"
+        android:layout_gravity="center"/>
+
+    <LinearLayout
+        android:layout_width="@dimen/item_product_image_size"
+        android:layout_height="0dp"
+        android:layout_gravity="center"
+        android:gravity="bottom"
+        android:orientation="vertical"
+        android:layout_weight="1">
+
+        <TextView
+            android:id="@+id/productItemName"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Beras"
+            android:textColor="@android:color/black"
+            android:textSize="17sp"/>
+
+        <TextView
+            android:id="@+id/productItemStock"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Stock: 43kg"
+            android:textColor="@android:color/black"/>
+
+        <TextView
+            android:id="@+id/productItemPrice"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="IDR 360.000"
+            android:textColor="@android:color/black"/>
+    </LinearLayout>
+
+
+</LinearLayout>

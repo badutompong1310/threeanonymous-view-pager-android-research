@@ -1,0 +1,95 @@
+{
+  "product":
+  [
+	{
+		"uid":"1",
+		"name":"Beras",
+		"imageUrl":"dummy_a",
+		"price":"380000",
+		"sku":"1",
+        "unitName":"kg",
+        "quantity":"131"
+	},
+	{
+		"uid":"2",
+		"name":"Minyak",
+		"imageUrl":"dummy_b",
+		"price":"26000",
+		"sku":"2",
+        "unitName":"liter",
+        "quantity":"11"
+	},
+	{
+		"uid":"3",
+		"name":"Sabun Sunlight",
+		"imageUrl":"dummy_c",
+		"price":"8000",
+		"sku":"3",
+        "unitName":"sachet",
+        "quantity":"8"
+	},
+	{
+		"uid":"4",
+		"name":"Shampo Pantene",
+		"imageUrl":"dummy_d",
+		"price":"3000",
+		"sku":"4",
+        "unitName":"sachet",
+        "quantity":"13"
+	},
+	{
+		"uid":"5",
+		"name":"Shampo Dove",
+		"imageUrl":"dummy_e",
+		"price":"3500",
+		"sku":"5",
+        "unitName":"sachet",
+        "quantity":"6"
+	},
+	{
+		"uid":"6",
+		"name":"Sabun Mandi Lifebouy",
+		"imageUrl":"dummy_f",
+		"price":"2500",
+		"sku":"6",
+        "unitName":"box",
+        "quantity":"26"
+	},
+	{
+		"uid":"7",
+		"name":"Indomie Goreng",
+		"imageUrl":"dummy_g",
+		"price":"2300",
+		"sku":"7",
+        "unitName":"bungkus",
+        "quantity":"16"
+	},
+    {
+		"uid":"8",
+		"name":"Indomie Kari Ayam",
+		"imageUrl":"dummy_h",
+		"price":"2300",
+		"sku":"8",
+        "unitName":"bungkus",
+        "quantity":"33"
+	},
+	{
+		"uid":"9",
+		"name":"Amplop Paperline",
+		"imageUrl":"dummy_i",
+		"price":"500",
+		"sku":"9",
+        "unitName":"lembar",
+        "quantity":"57"
+	},
+	{
+		"uid":"10",
+		"name":"Aqua Galon",
+		"imageUrl":"dummy_j",
+		"price":"16000",
+	  	"sku":"10",
+        "unitName":"galon",
+        "quantity":"24"
+	}
+  ]
+}
